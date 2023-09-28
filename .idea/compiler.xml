@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="oa_server" />
+        <module name="OA_generator" />
+        <module name="OA_mail" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="oa_generato" target="8" />
+      <module name="OA_generato" target="8" />
+      <module name="OA_generator" target="1.8" />
+      <module name="OA_mail" target="1.8" />
+      <module name="oa_server" target="1.8" />
+      <module name="OA_system" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

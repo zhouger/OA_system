@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "rabbitmq.username",
+      "type": "java.lang.String",
+      "description": "Description for rabbitmq.username."
+    },
+    {
+      "name": "rabbitmq.password.host",
+      "type": "java.lang.String",
+      "description": "Description for rabbitmq.password.host."
+    }
+  ] }
