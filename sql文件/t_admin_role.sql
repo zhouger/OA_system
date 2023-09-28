@@ -1,0 +1,12 @@
+INSERT INTO `t_admin_role`(`id`, `adminId`, `rid`) VALUES (5, 4, 3);
+INSERT INTO `t_admin_role`(`id`, `adminId`, `rid`) VALUES (6, 4, 2);
+INSERT INTO `t_admin_role`(`id`, `adminId`, `rid`) VALUES (7, 4, 4);
+INSERT INTO `t_admin_role`(`id`, `adminId`, `rid`) VALUES (8, 4, 5);
+INSERT INTO `t_admin_role`(`id`, `adminId`, `rid`) VALUES (16, 1, 6);
+INSERT INTO `t_admin_role`(`id`, `adminId`, `rid`) VALUES (55, 3, 3);
+INSERT INTO `t_admin_role`(`id`, `adminId`, `rid`) VALUES (56, 3, 4);
+INSERT INTO `t_admin_role`(`id`, `adminId`, `rid`) VALUES (67, 2, 3);
+INSERT INTO `t_admin_role`(`id`, `adminId`, `rid`) VALUES (68, 2, 4);
+INSERT INTO `t_admin_role`(`id`, `adminId`, `rid`) VALUES (91, 5, 4);
+INSERT INTO `t_admin_role`(`id`, `adminId`, `rid`) VALUES (92, 5, 3);
+INSERT INTO `t_admin_role`(`id`, `adminId`, `rid`) VALUES (93, 5, 2);

@@ -1,0 +1,16 @@
+INSERT INTO `t_department`(`id`, `name`, `parentId`, `depPath`, `enabled`, `isParent`) VALUES (1, '股东会', -1, '.1', 1, 1);
+INSERT INTO `t_department`(`id`, `name`, `parentId`, `depPath`, `enabled`, `isParent`) VALUES (2, '董事会', 1, '.1.2', 1, 1);
+INSERT INTO `t_department`(`id`, `name`, `parentId`, `depPath`, `enabled`, `isParent`) VALUES (3, '总办', 2, '.1.2.3', 1, 1);
+INSERT INTO `t_department`(`id`, `name`, `parentId`, `depPath`, `enabled`, `isParent`) VALUES (4, '财务部', 3, '.1.2.3.4', 1, 0);
+INSERT INTO `t_department`(`id`, `name`, `parentId`, `depPath`, `enabled`, `isParent`) VALUES (5, '市场部', 3, '.1.2.3.5', 1, 1);
+INSERT INTO `t_department`(`id`, `name`, `parentId`, `depPath`, `enabled`, `isParent`) VALUES (6, '华东市场部', 5, '1.2.3.5.6', 1, 1);
+INSERT INTO `t_department`(`id`, `name`, `parentId`, `depPath`, `enabled`, `isParent`) VALUES (7, '华南市场部', 5, '1.2.3.5.7', 1, 0);
+INSERT INTO `t_department`(`id`, `name`, `parentId`, `depPath`, `enabled`, `isParent`) VALUES (8, '上海市场部', 6, '1.2.3.5.6.8', 1, 0);
+INSERT INTO `t_department`(`id`, `name`, `parentId`, `depPath`, `enabled`, `isParent`) VALUES (9, '西北市场部', 5, '.1.2.3.5.9', 1, 1);
+INSERT INTO `t_department`(`id`, `name`, `parentId`, `depPath`, `enabled`, `isParent`) VALUES (10, '贵阳市场', 9, '.1.2.3.5.9.10', 1, 1);
+INSERT INTO `t_department`(`id`, `name`, `parentId`, `depPath`, `enabled`, `isParent`) VALUES (11, '乌当区市场', 10, '.1.2.3.5.9.10.11', 1, 0);
+INSERT INTO `t_department`(`id`, `name`, `parentId`, `depPath`, `enabled`, `isParent`) VALUES (12, '技术部', 3, '.1.2.3.12', 1, 0);
+INSERT INTO `t_department`(`id`, `name`, `parentId`, `depPath`, `enabled`, `isParent`) VALUES (13, '运维部', 3, '.1.2.3.13', 1, 1);
+INSERT INTO `t_department`(`id`, `name`, `parentId`, `depPath`, `enabled`, `isParent`) VALUES (21, '测试', 13, '.1.2.3.13.21', 1, 0);
+INSERT INTO `t_department`(`id`, `name`, `parentId`, `depPath`, `enabled`, `isParent`) VALUES (22, '测试', 13, '.1.2.3.13.22', 1, 0);
+INSERT INTO `t_department`(`id`, `name`, `parentId`, `depPath`, `enabled`, `isParent`) VALUES (23, '测试2', 13, '.1.2.3.13.23', 1, 0);

@@ -1,0 +1,15 @@
+INSERT INTO `t_sys_msg`(`id`, `mid`, `type`, `adminid`, `state`) VALUES (1, 1, 0, 1, 1);
+INSERT INTO `t_sys_msg`(`id`, `mid`, `type`, `adminid`, `state`) VALUES (2, 1, 0, 2, 1);
+INSERT INTO `t_sys_msg`(`id`, `mid`, `type`, `adminid`, `state`) VALUES (3, 1, 0, 3, 1);
+INSERT INTO `t_sys_msg`(`id`, `mid`, `type`, `adminid`, `state`) VALUES (4, 1, 0, 4, 0);
+INSERT INTO `t_sys_msg`(`id`, `mid`, `type`, `adminid`, `state`) VALUES (5, 1, 0, 5, 0);
+INSERT INTO `t_sys_msg`(`id`, `mid`, `type`, `adminid`, `state`) VALUES (6, 2, 0, 1, 1);
+INSERT INTO `t_sys_msg`(`id`, `mid`, `type`, `adminid`, `state`) VALUES (7, 2, 0, 2, 1);
+INSERT INTO `t_sys_msg`(`id`, `mid`, `type`, `adminid`, `state`) VALUES (8, 2, 0, 3, 1);
+INSERT INTO `t_sys_msg`(`id`, `mid`, `type`, `adminid`, `state`) VALUES (9, 2, 0, 4, 0);
+INSERT INTO `t_sys_msg`(`id`, `mid`, `type`, `adminid`, `state`) VALUES (10, 2, 0, 5, 0);
+INSERT INTO `t_sys_msg`(`id`, `mid`, `type`, `adminid`, `state`) VALUES (11, 3, 0, 1, 1);
+INSERT INTO `t_sys_msg`(`id`, `mid`, `type`, `adminid`, `state`) VALUES (12, 3, 0, 2, 1);
+INSERT INTO `t_sys_msg`(`id`, `mid`, `type`, `adminid`, `state`) VALUES (13, 3, 0, 3, 1);
+INSERT INTO `t_sys_msg`(`id`, `mid`, `type`, `adminid`, `state`) VALUES (14, 3, 0, 4, 0);
+INSERT INTO `t_sys_msg`(`id`, `mid`, `type`, `adminid`, `state`) VALUES (15, 3, 0, 5, 0);

@@ -1,0 +1,13 @@
+INSERT INTO `t_politics_status`(`id`, `name`) VALUES (1, '中共党员');
+INSERT INTO `t_politics_status`(`id`, `name`) VALUES (2, '中共预备党员');
+INSERT INTO `t_politics_status`(`id`, `name`) VALUES (3, '共青团员');
+INSERT INTO `t_politics_status`(`id`, `name`) VALUES (4, '民革党员');
+INSERT INTO `t_politics_status`(`id`, `name`) VALUES (5, '民盟盟员');
+INSERT INTO `t_politics_status`(`id`, `name`) VALUES (6, '民建会员');
+INSERT INTO `t_politics_status`(`id`, `name`) VALUES (7, '民进会员');
+INSERT INTO `t_politics_status`(`id`, `name`) VALUES (8, '农工党党员');
+INSERT INTO `t_politics_status`(`id`, `name`) VALUES (9, '致公党党员');
+INSERT INTO `t_politics_status`(`id`, `name`) VALUES (10, '九三学社社员');
+INSERT INTO `t_politics_status`(`id`, `name`) VALUES (11, '台盟盟员');
+INSERT INTO `t_politics_status`(`id`, `name`) VALUES (12, '无党派民主人士');
+INSERT INTO `t_politics_status`(`id`, `name`) VALUES (13, '普通公民');

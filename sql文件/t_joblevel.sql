@@ -1,0 +1,10 @@
+INSERT INTO `t_joblevel`(`id`, `name`, `titleLevel`, `createDate`, `enabled`) VALUES (1, '教授', '正高级', '2020-03-31 16:20:34', 1);
+INSERT INTO `t_joblevel`(`id`, `name`, `titleLevel`, `createDate`, `enabled`) VALUES (2, '副教授', '副高级', '2020-03-31 16:20:34', 1);
+INSERT INTO `t_joblevel`(`id`, `name`, `titleLevel`, `createDate`, `enabled`) VALUES (3, '助教', '初级', '2020-03-31 16:20:34', 1);
+INSERT INTO `t_joblevel`(`id`, `name`, `titleLevel`, `createDate`, `enabled`) VALUES (4, '讲师', '中级', '2020-03-31 16:20:34', 0);
+INSERT INTO `t_joblevel`(`id`, `name`, `titleLevel`, `createDate`, `enabled`) VALUES (5, '初级工程师', '初级', '2020-03-31 16:20:34', 1);
+INSERT INTO `t_joblevel`(`id`, `name`, `titleLevel`, `createDate`, `enabled`) VALUES (6, '中级工程师', '中级', '2020-03-31 16:20:34', 1);
+INSERT INTO `t_joblevel`(`id`, `name`, `titleLevel`, `createDate`, `enabled`) VALUES (7, '高级工程师', '副高级', '2020-03-31 16:20:34', 1);
+INSERT INTO `t_joblevel`(`id`, `name`, `titleLevel`, `createDate`, `enabled`) VALUES (8, '骨灰级工程师', '正高级', '2020-03-31 16:20:34', 1);
+INSERT INTO `t_joblevel`(`id`, `name`, `titleLevel`, `createDate`, `enabled`) VALUES (13, '测试222', '中级', '2023-04-13 10:58:00', 1);
+INSERT INTO `t_joblevel`(`id`, `name`, `titleLevel`, `createDate`, `enabled`) VALUES (14, '测试222', '中级', '2023-05-14 23:47:50', 1);
